@@ -1,4 +1,4 @@
-Netflix Content Analytics Dashboard
+# Netflix Content Analytics Dashboard
 
 #Project Overview
 
