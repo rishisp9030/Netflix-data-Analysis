@@ -1,6 +1,6 @@
-# 🎬 Netflix Content Analytics Dashboard
+Netflix Content Analytics Dashboard
 
-## 📊 Project Overview
+#Project Overview
 
 This project analyzes Netflix's content dataset to discover insights about movies, TV shows, genres, and global production trends.
 Using **Python, Pandas, Matplotlib, and Seaborn**, a **business intelligence–style dashboard** was built to visualize patterns in Netflix's catalog.
@@ -9,7 +9,7 @@ The dashboard uses a **Netflix-inspired dark theme with red color palettes** to 
 
 ---
 
-## 🎯 Objectives
+# Objectives
 
 * Analyze the distribution of **Movies vs TV Shows**
 * Identify **top countries producing Netflix content**
@@ -19,7 +19,7 @@ The dashboard uses a **Netflix-inspired dark theme with red color palettes** to 
 
 ---
 
-## 🛠 Tools & Technologies
+# Tools & Technologies
 
 * Python
 * Pandas
@@ -29,7 +29,7 @@ The dashboard uses a **Netflix-inspired dark theme with red color palettes** to 
 
 ---
 
-## 📂 Dataset
+# Dataset
 
 The dataset contains information about Netflix titles including:
 
@@ -47,33 +47,33 @@ Dataset file:
 
 ---
 
-## 📈 Dashboard Visualizations
+##Dashboard Visualizations
 
 The BI dashboard includes the following charts:
 
-### 1️⃣ Movies vs TV Shows
+# Movies vs TV Shows
 
 Shows the distribution of movies and television shows available on Netflix.
 
-### 2️⃣ Top Countries Producing Content
+# Top Countries Producing Content
 
 Highlights the countries contributing the most titles to Netflix.
 
-### 3️⃣ Ratings Distribution
+# Ratings Distribution
 
 Displays the most common audience ratings such as **TV-MA, TV-14, and PG-13**.
 
-### 4️⃣ Content Release Trend
+# Content Release Trend
 
 Shows how Netflix content production has evolved over time.
 
-### 5️⃣ Genre Analysis
+# Genre Analysis
 
 Identifies the most common genres available on the platform.
 
 ---
 
-## 🔍 Key Insights
+# Key Insights
 
 * Movies dominate the Netflix catalog compared to TV shows.
 * The United States produces the largest amount of Netflix content.
@@ -83,7 +83,7 @@ Identifies the most common genres available on the platform.
 
 ---
 
-## 🎨 Dashboard Design
+# Dashboard Design
 
 The dashboard uses a **Netflix-inspired visual theme**:
 
@@ -94,11 +94,11 @@ The dashboard uses a **Netflix-inspired visual theme**:
 
 ---
 
-## 📷 Dashboard Preview
+# Dashboard Preview
 
 Uploaded
 
-## 📁 Project Structure
+# Project Structure
 
 ```
 netflix-data-analysis
@@ -111,7 +111,7 @@ netflix-data-analysis
 
 ---
 
-## 🚀 Future Improvements
+# Future Improvements
 
 * Add interactive dashboards using **Plotly or Power BI**
 * Build a **Netflix recommendation system**
@@ -120,7 +120,7 @@ netflix-data-analysis
 
 ---
 
-## 👨‍💻 Author
+# Author
 
 **P. Rishi Shankar**
 
